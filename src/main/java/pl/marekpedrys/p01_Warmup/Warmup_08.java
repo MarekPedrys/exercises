@@ -1,10 +1,10 @@
-// 08.
+// Warmup_08.
 // Write a public static method printPrimeNumbers with parameter of type int named limit.
 // Method needs to print out all the prime numbers less or equal to the limit.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_08 {
+public class Warmup_08 {
 
     public static void main(String[] args) {
         printPrimeNumbers(101);

@@ -1,10 +1,10 @@
-// 01.
+// Warmup_01.
 // Write a public method that has 1 parameter of type int with the name minutes. Method needs to calculate
 // the hours and remaining minutes from the parameter. Then it needs to print a message.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_01 {
+public class Warmup_01 {
 
     public static void main(String[] args) {
         printHoursAndMinutes(75);

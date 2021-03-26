@@ -1,13 +1,13 @@
-// 03.
+// Warmup_03.
 // Write a public method calcFeetAndInchesToCentimeters that has 2 parameter of type double: feet and inches.
 // Validate that feet is >=0 and inches is >=0 and <12. Method needs to calculate how many centimetres comprise
 // the feet and inches passed to this method and return that value.
 // Write a second method of the same name but with only one parameter: inches.
 // The 2nd method needs to call the 1st method.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_03 {
+public class Warmup_03 {
 
     public static void main(String[] args) {
         System.out.println(calcFeetAndInchesToCentimeters(6, 11));

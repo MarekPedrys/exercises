@@ -1,10 +1,10 @@
-// 06.
+// Warmup_06.
 // Write a public static method with the name sumDigits with parameter of type int named number.
 // Method needs to return the sum of all digits of the number. Use "%" and "/" operators.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_06 {
+public class Warmup_06 {
 
     public static void main(String[] args) {
         System.out.println(sumDigits(-811));

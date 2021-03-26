@@ -1,11 +1,11 @@
-// 09.
+// Warmup_09.
 // Read 5 numbers from the console entered by the user and print the maximum number the user has entered.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
 import java.util.Scanner;
 
-public class Exercise_09 {
+public class Warmup_09 {
 
     public static void main(String[] args) {
 

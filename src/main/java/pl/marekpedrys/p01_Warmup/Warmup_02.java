@@ -1,10 +1,10 @@
-// 02.
+// Warmup_02.
 // Write a public method that has 1 parameter of type int named year. Method needs to calculate
 // if the year is a leap year. If the year is not greater than 0, return false.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_02 {
+public class Warmup_02 {
 
     public static void main(String[] args) {
         System.out.println(isLeapYear(2020));

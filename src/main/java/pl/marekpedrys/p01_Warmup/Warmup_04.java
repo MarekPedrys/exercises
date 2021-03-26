@@ -1,11 +1,11 @@
-// 04.
+// Warmup_04.
 // Write a public static method getDaysInMonth with parameters of type int: month and year.
 // Call a public static method isLeapYear with a parameter of type int named year (year needs to be >=1 and <=9999).
 
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_04 {
+public class Warmup_04 {
 
     public static void main(String[] args) {
         System.out.println(getDaysInMonth(2, 1996));

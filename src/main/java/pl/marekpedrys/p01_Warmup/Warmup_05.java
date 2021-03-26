@@ -1,9 +1,9 @@
-// 05.
+// Warmup_05.
 // Write a public method printTree. Method needs to print a christmas tree using for loops.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_05 {
+public class Warmup_05 {
     public static void main(String[] args) {
        printTree();
     }

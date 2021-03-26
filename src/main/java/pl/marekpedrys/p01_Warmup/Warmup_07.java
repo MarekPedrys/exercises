@@ -1,10 +1,10 @@
-// 07.
+// Warmup_07.
 // Write a public static method called isPalindrome with one parameter of type int named number.
 // Method needs to return true if the number is a palindrome number otherwise it should return false.
 
-package pl.marekpedrys.part_01;
+package pl.marekpedrys.p01_Warmup;
 
-public class Exercise_07 {
+public class Warmup_07 {
 
     public static void main(String[] args) {
         System.out.println(isPalindrome(4));
